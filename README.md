@@ -1,14 +1,10 @@
-The DarkRP modification addon
+Melsom DarkRP
 ==================
 for DarkRP 2.5.0 and above.
 
 ## Download ##
 Are you looking at this addon from the github web page? There's a "Download zip" button on the right.
 Just download and put in a folder in addons!
-
-## Description ##
-You should **not edit any of the DarkRP core files** (anything in gamemodes/darkrp/*). That is why this addon exists.
-This addon is made for you to whack in your addons folder and edit until you drop. Have a look around!
 
 ## Contents of this addon ##
 Everything is in the Lua folder, because that is where the fun happens.

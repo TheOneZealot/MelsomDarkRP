@@ -17,12 +17,18 @@ http://wiki.darkrp.com/index.php/DarkRP:CustomJobFields
 
 Add jobs under the following line:
 ---------------------------------------------------------------------------*/
-
-
-
-
-
-
+TEAM_ENGINEER = DarkRP.createJob("Engineer", {
+        color = Color(80, 5, 255, 0),
+        model = "models/player/swat.mdl",
+        description = [[Description.]],
+        weapons = {},
+        command = "engi",
+        max = 1,
+        salary = 25,
+        admin = 0,
+        vote = true,
+        hasLicense = true,
+})
 
 
 /*---------------------------------------------------------------------------

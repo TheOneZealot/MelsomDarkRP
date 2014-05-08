@@ -158,6 +158,6 @@ When anyone is demote from any job in this group, they will be temporarily banne
 from every job in the group
 ---------------------------------------------------------------------------*/
 DarkRP.disabledDefaults["demotegroups"] = {
-	["Cops"]		 = false,
+	["Cops"]         = false,
 	["Gangsters"]	 = false,
 }

@@ -3,7 +3,7 @@
 	"name"				"Melsom DarkRP"
 	"version"			"0.1"
 	"up_date"			"2014-05-08"
-	"author_name"			"Skr�dsch (Henrik Melsom)"
+	"author_name"			"Skrödsch (Henrik Melsom)"
 	"author_email"			"N/A"
 	"author_url"			"https://github.com/TheOneZealot/MelsomDarkRP"
 	"info"				"Melsom modified DarkRP"
